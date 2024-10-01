@@ -6,3 +6,5 @@
 | David - Bravo  | https://github.com/dgmeca/hg-2-bravo |
 
 | Oriana - Charlie | https://github.com/dgmeca/hg-2-charlie | 
+
+| Hermes - Delta | https://github.com/dgmeca/hg_2_delta | 
