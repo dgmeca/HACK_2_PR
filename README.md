@@ -3,7 +3,7 @@
 
 | Dylan - Alfa  | https://github.com/dgmeca/hg_2_alfa |
 
-| David - Bravo  | https://github.com/dgmeca/hg-2-bravo |
+| David - Bravo  | https://github.com/dgmeca/hg-2-bravo1/ |
 
 | Oriana - Charlie | https://github.com/dgmeca/hg-2-charlie | 
 
